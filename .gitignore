@@ -7,4 +7,8 @@ __pycache__
 
 # from streamlit cloud
 /.devcontainer
+<<<<<<< HEAD
 .devcontainer
+=======
+.devcontainer
+>>>>>>> 00e355da74c5725f9869ccc27a0eeaf04568514c
