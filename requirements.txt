@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+python-dotenv  # for working on load_dotenv
+google-genai
+google-generativeai
+Pillow
+gTTS
