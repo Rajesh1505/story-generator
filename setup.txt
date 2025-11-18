@@ -14,5 +14,14 @@
 7. created .env file and store google api key
     GOOGLE_API_KEY = ""
 
-7. run streamlit app
+8. run streamlit app
     streamlit app.py
+
+pushing code to the github -->
+0. first create empty repo on github then follow the below steps
+1. git init
+2. git add .
+3. git commit -m "initial commit"
+4. git branch -M main
+5. git remote add origin https://github.com/Rajesh1505/story-generator.git
+6. git push -u origin main
