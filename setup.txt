@@ -15,7 +15,7 @@
     GOOGLE_API_KEY = ""
 
 8. run streamlit app
-    streamlit app.py
+    streamlit run app.py
 
 
 ############################
@@ -30,7 +30,14 @@ pushing code to the github -->
 
 
 ###########################
-deployment using streamlit community cloud
+deployment using streamlit community cloud (github repo should be public)
 1. go to link (https://streamlit.io/cloud)
 2. click on
     Deploying? Try: Free-->log in with github
+3. click on
+    Deploy 
+    then select the repo and branch and streamlit code file
+    give app url name (story-generator-by-rajesh-patel)
+    then go to the advanced settings and add the api key same as the .env file (GOOGLE_API_KEY = "")
+    then finally click on deploy button
+4. app link: https://story-generator-by-rajesh-patel.streamlit.app/
